@@ -1,4 +1,14 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/kekby/devops-for-developers-project-74/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/kekby/devops-for-developers-project-74/actions)
+[![Actions Status](https://github.com/despot84/devops-for-developers-project-74/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/despot84/devops-for-developers-project-74/actions)
+[![ci](https://github.com/kkirilltarasenko/devops-for-developers-project-74/actions/workflows/push.yml/badge.svg)](https://github.com/kkirilltarasenko/devops-for-developers-project-74/actions/workflows/push.yml)
 
-[![Actions Status](https://github.com/kekby/devops-for-developers-project-74/actions/workflows/push.yml/badge.svg)](https://github.com/kekby/devops-for-developers-project-74/actions)
+
+## Требования
+
+- docker
+- docker compose
+- make
+
+## Доступные команды
+
+- see Makefile
